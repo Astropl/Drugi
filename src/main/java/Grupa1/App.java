@@ -12,5 +12,7 @@ public class App
         System.out.println ("Drugi Hello");
         System.out.println ("Drugi Hello");
         System.out.println ("Branch Hello\n\n\n");
+        System.out.println ("Zmiania");
+
     }
 }
